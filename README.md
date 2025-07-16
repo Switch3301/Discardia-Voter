@@ -1,5 +1,7 @@
 # Discadia Auto Voter
+<sub>[OutpostProxies.com](https://outpostproxies.com) - Premium USA/Global proxies for security research. HTTP/SOCKS5 support, unlimited bandwidth, flexible plans starting at $2/GB. [Updates](https://t.me/outpostupdates) | [Support](https://t.me/outpostproxies)</sub>
 
+- Discord server: https://discord.gg/switchuwu
 
 Yeah claude made readme, what else?
 
